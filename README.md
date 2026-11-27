@@ -2,6 +2,8 @@
 
 A responsive landing page for a made-up online library, built in plain HTML, CSS and JavaScript during the Frontend Simplified bootcamp.
 
+**Live:** https://fes-library.vercel.app/
+
 ## Features
 
 - Hero section, feature highlights, and book grids with covers, ratings and prices
