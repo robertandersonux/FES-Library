@@ -1,5 +1,24 @@
-# FES-Library
+# FES Library
 
-## Deployment
+A responsive landing page for a made-up online library, built in plain HTML, CSS and JavaScript during the Frontend Simplified bootcamp.
 
-[View Live Deployment on Vercel](https://vercel.com/new/robaandersonjr-uxs-projects/success?auto-redirect=true&developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=fes-library-5lihgtggq-robaandersonjr-uxs-projects.vercel.app&projectName=fes-library&s=https%3A%2F%2Fgithub.com%2Frobaandersonjr-ux%2FFES-Library&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=d_3FlflvMz4sMK0wkETxl&teamSlug=robaandersonjr-uxs-projects)
+**Live:** https://fes-library.vercel.app/
+
+## Features
+
+- Hero section, feature highlights, and book grids with covers, ratings and prices
+- Mobile menu that opens and closes with JavaScript
+- Responsive layout for phone, tablet and desktop
+
+## Built with
+
+HTML · CSS · JavaScript
+
+## Getting started
+
+No build step or install needed.
+
+    git clone https://github.com/robertandersonux/FES-Library.git
+    cd "FES-Library/FES Library - CSS"
+
+Then open `index.html` in your browser.
